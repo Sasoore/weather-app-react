@@ -61,6 +61,12 @@ export default function Search() {
           id="searchBtn"
         />
       </form>
+      <p>
+        <a href="https://github.com/Sasoore/weather-app-react" target="_blank">
+          Open-source code
+        </a>{' '}
+        by Sara
+      </p>
     </div>
   )
 }

@@ -22,8 +22,6 @@ li {
 }
 
 p {
-  position: relative;
-  bottom: 100px;
   text-align: center;
   font-size: 13px;
 }
