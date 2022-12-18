@@ -1,0 +1,79 @@
+.container {
+  display: block;
+  margin: 100px;
+  background-color: #cedcc3;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 5px;
+  padding: 5px;
+  height: 450px;
+  max-width: 625px !important;
+  width: 80%;
+}
+
+ul {
+  position: relative;
+  left: -30px;
+}
+
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  position: relative;
+  bottom: 100px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.humidity {
+  text-align: center;
+  padding-bottom: 5px;
+  margin-top: 0;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.wind {
+  text-align: center;
+  padding: 0;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#city {
+  font-size: 45px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+#temp {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+#situation {
+  font-size: 35px;
+}
+
+#search-section {
+  display: block;
+  margin: 0 auto;
+}
+
+#search-input {
+  border: 1px solid #69ab98;
+  padding: 5px;
+  width: 420px;
+  border-radius: 4px;
+  margin: 15px;
+}
+
+#searchBtn {
+  font-size: 15px;
+  padding: 6px 30px;
+  border: none;
+  margin: 15px;
+}
